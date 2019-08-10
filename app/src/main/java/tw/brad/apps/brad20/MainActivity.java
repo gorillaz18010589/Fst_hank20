@@ -1,6 +1,9 @@
 package tw.brad.apps.brad20;
 //套用別人api
 //檔案上傳frgament
+//https://github.com/MostafaNasiri/AndroidFileChooser/blob/master/README.md 網址
+//build.gradle =>加上compile 'ir.sohreco.androidfilechooser:android-file-chooser:1.3',套入別人api
+
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
